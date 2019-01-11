@@ -1,0 +1,13 @@
+{
+  "name": "hatenadraftread",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "okuoku <mjt@cltn.org>",
+  "license": "CC0-1.0",
+  "private": true,
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "wsse": "^2.4.0"
+  }
+}
